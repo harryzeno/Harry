@@ -1,0 +1,11 @@
+// Start of the code for Branch-1: Feature Implementation
+
+// Function to add two numbers
+function addNumbers(a, b) {
+  return a + b;
+}
+
+// Example usage of the addNumbers function
+console.log(addNumbers(5, 3)); // Expected output: 8
+
+// End of code for Branch-1
